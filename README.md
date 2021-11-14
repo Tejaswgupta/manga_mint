@@ -1,30 +1,8 @@
 # MangaMint
 
-<p align="center">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/febryardiansyah/manga_mint">
-<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/febryardiansyah/manga_mint">
-<img alt="GitHub" src="https://img.shields.io/github/license/febryardiansyah/manga_mint"> 
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/febryardiansyah/manga_mint">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/febryardiansyah/manga_mint">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/febryardiansyah/manga_mint">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/febryardiansyah/manga_mint">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/febryardiansyah/manga_mint">
-</p>
-
 MangaMint is manga reader application that provides manga and comic bahasa indonesia and currently
 available on android only, idk in the future will be available on ios or not
 
-## Usage
-1. Download or clone this repository [manga-api](https://github.com/febryardiansyah/manga-api)
-    > git clone https://github.com/febryardiansyah/manga-api
-2. you have to deploy this api by yourself `(You can use heroku,vercel, or glitch)`
-2. change `const String BaseUrl = 'https://10.0.2.2:8000/api/';` (<manga_mint>/lib/constants/base_url.dart) to your API. ex: `example.herokuapp.com.com/api/`
-
-## Prototype of This App
-[MangaMint Protyotype](https://www.figma.com/proto/tEwOEwAIycAuWfMOCffG3w/customDesign?node-id=591%3A3&scaling=scale-down)
-
-## Download Apk
-[mangamint.apk](https://github.com/febryardiansyah/manga_mint/releases/tag/v.1.0)
 
 ## Features
 - [x] Manga List (Japanase Comic)
